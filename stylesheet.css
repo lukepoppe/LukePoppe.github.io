@@ -1,0 +1,48 @@
+body {
+	font: 16px Lucida Sans Unicode, sans-serif;
+	background-color: ivory ;
+	  border-style: solid;
+    border-width: 12px;
+}
+
+
+.date {
+	float:right;
+}
+
+#pic {
+	float: right;
+	border-style: solid;
+    border-width: 7px;
+    border-color: white;
+    background: url(http://s21.postimg.org/jytsu2czb/app_pic.png) no-repeat;
+   
+    -webkit-transform: rotate:3deg;
+    -moz-transform: rotate(3deg);
+    -ms-transform: rotate(3deg);
+    -o-transform: rotate(3deg);
+    transform: rotate(3deg);
+
+
+}
+#heading {
+	text-align: center;
+
+}
+
+#myname {
+	font-size: 46px;
+	font-weight: bold;
+	border-bottom: 3px solid #7FFFD4;
+
+}
+#education {
+	border-bottom: 3px solid #7FFFD4;
+}
+#container {
+	width: 800px;
+	margin: 60px auto 60px;
+}
+#Experience {
+	border-bottom: 3px solid #7FFFD4;
+}
